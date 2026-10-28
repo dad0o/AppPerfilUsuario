@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1030856563832",
+    "project_id": "app-login-72177",
+    "storage_bucket": "app-login-72177.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030856563832:android:203c9c24f28bfa5bbee18d",
+        "android_client_info": {
+          "package_name": "br.universidade.approomproduto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8kjUIzFmrqrqU4AkLkMJVXm47pQYY500"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
